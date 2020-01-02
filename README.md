@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/vaishnavsrirama/example/_apis/build/status/s-vaishnav.UofT-Timetable-Generator?branchName=master)](https://dev.azure.com/vaishnavsrirama/example/_build/latest?definitionId=1&branchName=master)
 # UofT Timetable Generator
 
 ### Description
